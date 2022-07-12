@@ -1,7 +1,7 @@
 # cricket
 Engineered a machine learning solution which predicts the number of runs to be scored in an over,
 
-Given the team name, wickets left, overs left and inning, preprocessed and prepared the data from ball by ball data of T20 matches
+given the team name, wickets left, overs left and inning, preprocessed and prepared the data from ball by ball data of T20 matches
 
 Implemented XGBoost, LightGBM and Random forest, did hyperparameter tuning using GridSearchCV
 
